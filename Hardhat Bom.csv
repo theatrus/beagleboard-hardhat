@@ -1,0 +1,64 @@
+Manufacturer,Part,Description,Ref Desgs,Qty,Use,Budgetary Cost,Budgetary Cost Ext,Bought From
+PCB + Mechanical,,,,,,,,
+PCB,,,,1,,3.6,3.6,
+Standoff,91780A127,"Aluminum Female Threaded Hex Standoff 1/4"" Hex, 1/2"" Length, 6-32 Screw Size",,4,,0.27,1.08,
+Standoff,93505A443,"Aluminum Male-Female Threaded Hex Standoff 1/4"" Hex, 5/8"" Length, 6-32 Screw Size",,4,,0.46,1.84,
+Screws,90272A144,"Zinc-Pltd Stl Pan Head Phillips Machine Screw 6-32 Thread, 1/4"" Length, packs of 100",,4,,0.02,0.08,
+,,,,,,,0,
+Actives,,,,,,,0,
+ON,2N7002WT1G/BKN,2n7002 Mofet,,2,FET,0.05,0.1,Avnet
+,,,,,,,0,
+TI,OPA2141AID ,"10MHz, Single Supply, Low Noise, JFET Precision Amplifier",,0,4-20mA driver,3.4,0,
+Linear Technology,LT1678CS8#PBF,IC OPAMP R-R I/O DUAL LN 8SOIC,,0,"0-10 out, 4-20 out",4.5,0,
+or,,,,,,,0,
+STMicro,LM358YDT,IC OP AMP DUAL LP 8-SOIC,,3,"4-20mA driver, 0-10",0.34,1.02,Avnet
+or,,,,,,,0,
+Analog Devices,OP282GSZ,IC OPAMP JFET 4MHZ DUAL LP 8SOIC,,0,,2.14,0,
+,,,,,,,0,
+TI, REF3333AIDBZR ,"3.3V 30ppm/C Drift, 3.9uA, SOT23-3, SC70-3 Voltage Reference",,1,4-20mA ref,2.3,2.3,
+TI,ADS1015IDGST,ADC (A/D Converters) 12B ADC with Int MUX PGA Comp Osc & Ref,,1,ADC,2.8,2.8,Mouser
+TI,SN65HVD12D,IC TRANSCEIVER RS485 3.3V 8-SOIC,,1,RS485 driver,2.1,2.1,Mouser
+Microchip,MCP4728-E/UN,IC DAC 12BIT W/I2C 10-MSOP,,1,4-20mA and 0-10,2.5,2.5,Avnet
+,,,,,,,0,
+Fairchild,FDC5614P,MOSFET P-CH 60V 3A SSOT-6,,2,4-20mA driver,0.6,1.2,Mouser
+NXP,"GTL2002DP,118",IC XLATR 2BIT BI-DIREC OD 8TSSOP,,1,Logic Level,0.7,0.7,Mouser
+TI,SN74AVC4T245PWR,IC BUS TRANSCVR 4BIT 16TSSOP,,2,Logic Level,0.9,1.8,Mouser
+National Semiconductor,LM25011MY/NOPB,IC BUCK ADJ 2A 10MSOP,,1,Power,4.86,4.86,DigiKey
+Diodes/Zetex,ZLDO1117-3.3,3.3V LDO,,1,Power,0.3,0.3,
+Linear Technology,LT3082ETS8#TRMPBF,IC VOLT REG 200MA ADJ SOT23-8,,1,4-20mA supply,3.07,3.07,
+Toshiba,TLP176GF-ND,PHOTOCOUPLER GAAS IRED/FET 4-SOP,,2,,1.88,3.76,DigiKey
+Diodes/Zetex,B360A-13-F,DIODE SCHOTTKY 60V 3A SMA,,2,,0.44,0.88,Mouser
+Fairchild,FLZ3V3B,DIODE ZENER 3.3V 500MW SOD-80,,4,,0.11,0.44,Mouser
+NXP,"BAT754A,215",Schottky (Diodes & Rectifiers) DIODE SCHOTTKY,,2,,0.18,0.36,Mouser
+STMicro,M24C01-WMN6P,EEPROM,,1,,0.17,0.17,Avnet
+,,,,,,,0,
+Passives,,,,,,,0,
+Susumu,RG3216P-3000-B-T1,300 ohm .1% 1206 0.25W,,2,4-20mA,0.36,0.72,DigiKey
+Panasonic,ECJ-4YF1H106Z,CAP 10UF 50V CERAMIC F 1210,,1,,0.86,0.86,DigiKey
+Panasonic,ELL-6PG220M,Power Inductors 22UH SHIELDED COIL CHOKE,,1,,0.72,0.72,Mouser
+MuRata,GRM21BR71C475KA73L,Cap 4.7uF 16VDC X7R 10% SMD 0805 Embossed T/R,,2,,0.17,0.34,Avnet
+TDK,C1608X7R1H103M,Multilayer Ceramic Capacitors (MLCC) - SMD/SMT 0603 50volts 0.01uF X7R 20%,,1,,0.004,0.004,Mouser
+TDK,C3216Y5V1E475Z/0.85,Multilayer Ceramic Capacitors (MLCC) - SMD/SMT 1206 4.7uF 25V Y5V,,4,,0.06,0.24,Mouser
+StackPole,RMCF0603FT9K76,RES 9.76K OHM 1/10W 1% 0603 SMD,,1,,0.01,0.01,DigiKey
+StackPole,RMCF0603FT10K0,RES 10K OHM 1/10W 1% 0603 SMD,,10,,0.005,0.05,DigiKey
+Yageo,311-1.91MCRCT-ND,RES 1.91M OHM 1/8W 1% 0805 SMD,,1,,0.01,0.01,DigiKey
+Panasonic,ERJ-3EKF5492V,RES 54.9K OHM 1/10W 1% 0603 SMD,,2,,0.04,0.08,DigiKey
+Panasonic,ERJ-3EKF6651V,RES 6.65K OHM 1/10W 1% 0603 SMD,,2,,0.04,0.08,DigiKey
+StackPole,RMCF0603JT200KCT-ND,RES 200K OHM 1/10W 5% 0603 SMD,,1,,0.007,0.007,DigiKey
+Yageo,RT0603DRD0740K2L,RES 40.2K OHM 1/10W .5% 0603 SMD,,2,,0.09,0.18,DigiKey
+Bourns,MF-NSMF012-2,PTC RESETTABLE .12A 30V 1206,,2,,0.21,0.42,Mouser
+StackPole,RMCF0603JT100K,RES 100K OHM 1/10W 5% 0603 SMD,,1,,0.01,0.01,DigiKey
+CTS,73L3R20J,RES .20 OHM 1/10W 5% 0805,,1,,0.12,0.12,DigiKey
+Susumu,RG1608P-101-B-T5,RES 100 OHM 1/10W .1% 0603 SMD,,2,,0.25,0.5,DigiKey
+,,,,,,,,
+Connectors,,,,,,,,
+Tyco,284512-3,TERM BLOCK HEADER 3POS R/A 3.5MM,,2,,0.54,1.08,DigiKey
+Tyco,284506-3,TERM BLOCK PLUG 3POS 3.5MM,,2,,1.32,2.64,DigiKey
+Tyco,284512-2,TERM BLOCK HEADER 2POS R/A 3.5MM,,6,,0.39,2.34,DigiKey
+Tyco,284506-2,TERM BLOCK PLUG 2POS 3.5MM,,6,,0.77,4.62,DigiKey
+CUI,PJ-002AH,CONN PWR JACK 2.1X5.5MM HIGH CUR,,1,,0.42,0.42,DigiKey
+Sullins,PPPC142LFBN-RC,"CONN HEADER FMAL 28PS.1"" DL GOLD",,1,,1.85,1.85,DigiKey
+Molex,90131-0134,"CONN HEADER 28POS .100"" STR TIN",,1,,2.64,2.64,DigiKey
+,,,,,,,0,
+,,,,,,,,
+,,,,,,,54.901,
