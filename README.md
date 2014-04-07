@@ -22,6 +22,11 @@ The analog circuits were enabled via a set of I2C ADCs and DACs
 (12-bit). All other controls were via GPIO control from the
 BeagleBoard - there is no on-board MCU.
 
+# License
+
+The CERN OHL License 1.2 is used. Please see the accompanying
+LICENSE.txt file.
+
 # Design Status
 
 Boards were made for this design, and 2 prototypes were made from the
@@ -35,6 +40,18 @@ yann@stackfoundry.com with your mailing address. US postage is free,
 International will be dealt with as it happens :-)
 
 These boards are PCB only - no components are mounted.
+
+# Files available
+
+The original design is available as Eagle 6.x (XML-based) design
+files, in the eagle/ directory.
+
+Gerber files from the Eagle board file are made available in the
+gerber/ directory.
+
+Schematic PDF is available in the root of this repository.
+
+A netlist file is available in the gerber/ directory.
 
 # Adapting this design
 
